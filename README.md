@@ -12,7 +12,7 @@ OR
 - Drag .command files into the Dock for 1-click switching
 
 ### Customize Icon (Optional):
-- Copy an icon image (.icns or any image format).
+- Copy an icon image (.icns or other icon format). There are example icons in the `icons` folder.
 - Right-click the .command file in Finder and select Get Info.
 - Click the small icon in the top-left corner of the Info window to select it.
 - Paste (Cmd+V) the copied image over the icon. 
